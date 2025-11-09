@@ -8,4 +8,4 @@ Async = is a process that working on the other task while waiting a task that ne
 
 ## 10-04-2025
 
-Generic type is a type that contains several kind of types that a parameter can receive and return it. It could be useful for several things that required on the same function such as regex validation etc without wasting a lot of function
+Generic type is a type that contains several kind of types that a parameter can receive and return it. It could be useful for several things that required on the same function such as regex validation etc without wasting a lot of function testing
